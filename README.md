@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @dukeweezo
+- 👀 (At this point in time) I’m particularly interested in NextJS, Elixir / Phoenix, geospatial programming, game engine architecture. 
+- 🌱 I’m currently learning AWS through [this class](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/).
+- 💞️ I’m looking to collaborate on ???
+- 📫 How to reach me: dukeweezo@gmail.com
+
+<!---
+dukeweezo/dukeweezo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
