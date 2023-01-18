@@ -4,7 +4,7 @@ Hello! I'm a generalized specialist with many interests, including:
 
 As a developer of technology, I believe in
 - exhaustively considering all social impact before creating and releasing a product or technology
-- not ignoring negative social impacts just because something is 'cutting-edge', 'cool', 'a challenge', or because 'someone else will end up doing it anyway'
+- not ignoring negative social impacts just because something is lucrative, 'cutting-edge', 'cool', 'a challenge', or because 'someone else will end up doing it anyway'
 
 `Q: Who's the goofy guy with a wrench and in desperate need of a stand-up desk and chiropractor?`
 
