@@ -6,7 +6,7 @@ As a developer of technology, I believe in
 - exhaustively considering all social impact before creating and releasing a product or technology
 - not ignoring negative social impacts just because something is lucrative, 'cutting-edge', 'cool', 'a challenge', or because 'someone else will end up doing it anyway'
 
-`Q: Who's the goofy avatar with a wrench and in desperate need of a stand-up desk?`
+`Q: Who's that avatar with a wrench and in desperate need of a stand-up desk?`
 
 `A: Repo Man from Final Fantasy 6. (Yes, I like bad puns). `
 
