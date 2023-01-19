@@ -1,6 +1,6 @@
 Hello! I'm an generalizing specialist, with interests including:
 
-`functional languages, well-done OOP, language design, architecture (software), low-level programming (C to assembly), front-end / back-end development, web development, UI design, game engine architecture, game scripting, game design, graphic design, 3d modelling (Maya), architecture (buildings [classical, Italian Renaissance]), mazes, board game design, ecology, wildlife biology, the sport involving kicking a ⚽`
+`functional languages, well-done OOP, language design, architecture (software), low-level programming (C to assembly), front-end / back-end development, web development, UI design, GIS, game engine architecture, game scripting, game design, graphic design, 3d modelling (Maya), architecture (buildings [classical, Italian Renaissance]), mazes, board game design, ecology, wildlife biology, the sport involving kicking a ⚽`
 
 As a creator of technology, I believe in
 - exhaustively considering all social impact before creating and releasing a product or technology
